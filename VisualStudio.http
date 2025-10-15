@@ -1,0 +1,6 @@
+@VisualStudio_HostAddress = http://localhost:5093
+
+GET {{VisualStudio_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
